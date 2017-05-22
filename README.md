@@ -1,1 +1,1 @@
-# CzchitasCodingClub
+# CzechitasCodingClub
